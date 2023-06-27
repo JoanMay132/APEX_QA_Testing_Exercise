@@ -20,7 +20,7 @@ Most software projects involve teams of several people working collaboratively t
 
 ### *Wrong Perception*
 
-![1687807953298](image/README/1687807953298.png)
+![1687880469308](image/README/1687880469308.png)
 
 With the help of Gherkin language cucumber helps facilitate the discovery and use of a ubiquitous language within the team. Cucumber test removes many misunderstandings long before they create any ambiguities in to the code.
 
