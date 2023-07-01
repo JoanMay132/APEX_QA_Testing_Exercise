@@ -1,4 +1,4 @@
-# APEX QA Automation Exercise
+# Liverpool QA Automation Exercise
 
 ## Behavior Driven Development
 

@@ -52,7 +52,7 @@ def verify_search_results(context, expected_results):
             # Extract the number of results from the text string
             num_results = int(''.join(filter(str.isdigit, result_text)))
             # Verify if the number of results is greater than zero
-            assert num_results > 0
+            assert num_results > 0 # If condtions is True, the test passes
         except:
             assert False, "The element containing the number of results was not found"
 
